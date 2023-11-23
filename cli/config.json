@@ -1,0 +1,36 @@
+{
+    "server": {
+        "sources": [
+            {
+                "path": "/home/filip/server",
+                "worldName": "world"
+            }
+        ]
+    },
+    "data": {
+        "documentRoot": "/home/filip/minecraft-ssfs-stats",
+        "eventsDir": "events",
+        "statsDir": "stats"
+    },
+    "crown": {
+        "gold": 4,
+        "silver": 2,
+        "bronze": 1
+    },
+    "client": {
+        "defaultLanguage": "en",
+        "playersPerPage": 100,
+        "playerCacheUUIDPrefix": 2,
+        "serverName": "SSFS",
+        "showLastOnline": true
+    },
+    "players": {
+        "inactiveDays": 90,
+        "updateInactive": false,
+        "profileUpdateInterval": 3,
+        "minPlaytime": 60,
+        "excludeBanned": true,
+        "excludeOps": false,
+        "excludeUUIDs": []
+    }
+}
