@@ -25,7 +25,7 @@
         "showLastOnline": true
     },
     "players": {
-        "inactiveDays": 180,
+        "inactiveDays": 210,
         "updateInactive": false,
         "profileUpdateInterval": 3,
         "minPlaytime": 60,
