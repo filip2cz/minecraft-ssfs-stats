@@ -2,7 +2,7 @@
     "server": {
         "sources": [
             {
-                "path": "/home/filip/server",
+                "path": "/opt/ssfs",
                 "worldName": "world"
             }
         ]
