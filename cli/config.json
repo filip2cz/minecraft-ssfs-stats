@@ -2,13 +2,13 @@
     "server": {
         "sources": [
             {
-                "path": "/opt/ssfs",
+                "path": "/home/amp/instances/Minecraft-SSFS01/Minecraft",
                 "worldName": "world"
             }
         ]
     },
     "data": {
-        "documentRoot": "/home/filip/minecraft-ssfs-stats",
+        "documentRoot": "/home/amp/minecraft-ssfs-stats",
         "eventsDir": "events",
         "statsDir": "stats"
     },
